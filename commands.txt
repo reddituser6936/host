@@ -1,7 +1,0 @@
-reddit = praw.Reddit(
-    client_id='TYwFcYgC6NXk_3umqHJBwg',
-    client_secret='j8bS1wHjJ0780fj47CG8z95FzbvwsQ',
-    username='teenwriter_lmao',
-    password='fuckyourahi',
-    user_agent='TestApp'
-)
